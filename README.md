@@ -1,2 +1,2 @@
-# BBS using MySQL
-投稿・削除・編集・パスワード機能を備えた投稿フォームをhtmlで作成しました。データの保存はMySQLを活用しています。
+# Internship at TECH-BASE
+TECH-BASEのインターンで作成したhtml/phpファイルをアップロードしています。
